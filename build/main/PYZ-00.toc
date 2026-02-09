@@ -1,4 +1,4 @@
-('C:\\Users\\Usuario\\Desktop\\qr_bdexcel\\build\\main\\PYZ-00.pyz',
+('C:\\Users\\Usuario\\Documents\\qr_bdexcel\\build\\main\\PYZ-00.pyz',
  [('PIL',
    'C:\\Users\\Usuario\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\site-packages\\PIL\\__init__.py',
    'PYMODULE'),
