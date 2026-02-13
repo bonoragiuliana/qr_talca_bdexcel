@@ -1,0 +1,67 @@
+# =========================
+# Python (cachés / bytecode)
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =========================
+# Entornos virtuales (venv)
+# =========================
+.venv/
+venv/
+ENV/
+env/
+
+# =========================
+# Build / dist (generado)
+# =========================
+build/
+dist/
+*.spec
+
+# =========================
+# Test / linters (cachés)
+# =========================
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.pyright/
+.coverage
+htmlcov/
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# IDEs (PyCharm / VSCode)
+# =========================
+.idea/
+.vscode/
+*.iml
+
+# =========================
+# OS
+# =========================
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# =========================
+# Datos locales del proyecto
+# =========================
+*.db
+*.sqlite*
+*.xlsx
+*.xls
+*.xlsm
+*.csv
+
+# =========================
+# Config local / secretos
+# =========================
+config.json
+.env
+.env.*
