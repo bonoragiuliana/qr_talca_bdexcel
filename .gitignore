@@ -63,5 +63,4 @@ Desktop.ini
 # Config local / secretos
 # =========================
 config.json
-.env
-.env.*
+=======
